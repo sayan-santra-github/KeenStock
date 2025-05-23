@@ -12,7 +12,7 @@ const Header = () => {
         <span>|</span>
         <ul className="flex ml-auto">
           <li>FEED</li>
-          <li>Query</li>
+          <li>QUERY</li>
           <li>KEENING</li>
         </ul>
       </div>
